@@ -1,0 +1,8 @@
+# Formatting will be taken care of with ES Lint and Style Lint
+*.tsx
+*.ts
+*js
+*jsx
+*css
+*less
+*scss

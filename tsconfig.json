@@ -14,10 +14,8 @@
     "isolatedModules": true,
     "jsx": "preserve"
   },
-  
-  "extends": "eslint-config-wesbos/tsconfig.json",  
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules"],
-  
-}
 
+  "extends": "eslint-config-wesbos/tsconfig.json",
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}

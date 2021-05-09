@@ -34,6 +34,12 @@
     "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.2.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-recommended": "^5.0.0",
+    "stylelint-group-selectors": "^1.0.8",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.2.0",
     "typescript": "^4.2.4"
   }
 }
