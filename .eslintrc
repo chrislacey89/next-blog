@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "eslint-config-wesbos/typescript.js"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "semi": true,
+        "singleQuote": true,
+        "trailingComma": "all"
+      }
+    ]
+  },
+  "globals": {
+    "JSX": true
+    }
+}
